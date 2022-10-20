@@ -26,7 +26,7 @@
     "react-native-multiple-select": "^0.5.5",
     "react-native-paper": "^3.4.0",
     "react-native-realistic-deck-swiper": "^0.1.3",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-snap-carousel": "^3.8.4",
     "react-native-textinput-material-autocomplete": "^1.0.6",
     "react-native-web": "~0.11.7",
